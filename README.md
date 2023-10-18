@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaiSriHarshaKumbam
-- 👀 I’m interested in learning new technologies
+- 👀 I’m interested in Data Science 👨‍💻 & Machine Learning 🌐📊📈🖥️
 - 🌱 I’m currently learning Python 🐍 and delving deeper into the art of coding and crafting innovative solutions. My GitHub is the canvas where I sketch the future.
 - 🎮 When I'm not crafting code, I'm leveling up in the world of gaming. It's where I embrace challenges and find inspiration for my coding adventures. 🎮
 - 💞️ I’m looking for internships and job opportunities.
